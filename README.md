@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jason Kent or @JasonK97
 - 👀 I’m interested in all things Web Development!
 - 🌱 I’m currently learning Vue.js in Udemy and an Internship
-- 📫 Check out <a href="jasonk97.github.io">My Portfolio Website</a> for more about me and how to contact me!
+- 📫 Check out <a href="https://jasonk97.github.io/" target="_blank">My Portfolio Website</a> for more about me and how to contact me!

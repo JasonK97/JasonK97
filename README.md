@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jason Kent or @JasonK97 and I work for Leisure Time Inc.
-- 👀 I work in Web Development using React.js!
-- 🌱 I’m currently working on my Senior Project for University
-- 📫 Check out <a href="https://jasonkent.dev/" target="_blank">My Portfolio Website</a> for more about me and how to contact me!
+- ⚛ I do Full Stack Development for <a href="https://shop.leisuretimeinc.com/" target="_blank">Leisure Time Inc.</a> using React.js!
+- 🎓 I’m currently working on my Senior Project for University and graduate on Dec 15th
+- 📫 Check out <a href="https://jasonkent.dev/" target="_blank">My Portfolio Website</a> for more about me!

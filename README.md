@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Jason Kent (<strong>@JasonK97</strong>) and I'm a Full Stack Developer.
 - ⚛ I Lead Full Stack Development for <a href="https://leisuretimeinc.com/" target="_blank">Leisure Time Inc.</a> using React.js and Next.js!
 - 🐕 My Senior Project for Silver Lab Litters, check it out <a href="https://react-firebase-blog-e46b3.web.app/" target="_blank">here!</a>
-- 📫 Check out <a href="https://jasonkent.dev/" target="_blank">My Portfolio Website</a> for more about me!
+- 📫 Check out <a href="https://jasonkent.dev/" target="_blank">My Portfolio Website</a> for more about me and my work experience!
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/jasonbkent/">

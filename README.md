@@ -23,5 +23,4 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JasonK97&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonK97&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

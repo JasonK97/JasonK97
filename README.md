@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/jasonbkent/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=JasonK97&style=flat-square&color=blue" alt=""/>
+<!--   <img src="https://komarev.com/ghpvc/?username=JasonK97&style=flat-square&color=blue" alt=""/> -->
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :

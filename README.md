@@ -1,5 +1,5 @@
 ### :man_technologist: About Me :
-- 👋 Hi, I’m Jason Kent (<strong>@JasonK97</strong>) and I'm a Full Stack Developer.
+- 👋 Hi, I’m Jason Kent (<strong>@JasonK97</strong>) and I'm a Frontend Developer.
 - ⚛ I am a Software Engineer at <a href="https://www.libertymutual.com/" target="_blank">Liberty Mutual</a>.
 - 🧠 I am fascinated by AI like Jounce.ai and ChatGPT and how they boost productivity of developers in a positive way.
 - 🍓 Freelance work available. My latest project is for <a href="https://wellberryhealth.com/" target="_blank">Wellberry Health</a>.

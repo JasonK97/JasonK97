@@ -1,5 +1,5 @@
 ### :man_technologist: About Me :
-- 👋 Hi, I’m Jason Kent (<strong>@JasonK97</strong>) and I'm a Frontend Developer.
+- 👋 Hi, I’m Jason Kent (<strong>@JasonKentDotDev</strong>) and I'm a Frontend Developer.
 - ⚛ I am a Software Engineer at <a href="https://www.libertymutual.com/" target="_blank">Liberty Mutual</a>.
 - 🧠 I am fascinated by AI like Jounce.ai and ChatGPT and how they boost productivity of developers in a positive way.
 - 💻 Freelance work available. <a href="https://jasonkent.dev/contact" target="_blank">Contact me</a> if you're interested in building a Website.

@@ -1,7 +1,7 @@
 ### :man_technologist: About Me :
 - 👋 Hi, I’m Jason Kent (<strong>@JasonKentDotDev</strong>) and I'm a Frontend Developer.
 - ⚛ I am a Software Engineer at <a href="https://www.libertymutual.com/" target="_blank">Liberty Mutual</a>.
-- 🧠 I manage and maintain <a href="https://env-guardian.online" target="_blank">Env-Guardian</a>, an npm package that scans code for missed secrets.
+- 🛡️ I manage and maintain <a href="https://env-guardian.online" target="_blank">Env-Guardian</a>, an npm package that scans code for missed secrets.
 - 💻 Freelance work available. <a href="https://jasonkent.dev/contact" target="_blank">Contact me</a> if you're interested in building a Website.
 - 📫 Check out <a href="https://jasonkent.dev/" target="_blank">My Portfolio Website</a> for more about me and my work experience!
 
